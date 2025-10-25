@@ -1,4 +1,3 @@
-import React from "react";
 import { Loader2, Type } from "lucide-react";
 import type { ResultDisplayProps } from "../types";
 
